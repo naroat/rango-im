@@ -2,3 +2,4 @@
 ./server/main.exe
 ./client/client.exe~
 ./server/main.exe~
+.DS_Store
